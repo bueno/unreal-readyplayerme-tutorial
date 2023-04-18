@@ -2,6 +2,9 @@
 
 This repository is the source code of the series of videos that are part of the SERIES CHARACTERS IN UNREAL ENGINE 5, where you will learn to integrate characters/avatars within UNREAL ENGINE 5 using the READY PLAYER ME AVATAR platform.
 
+** You need the plugin Ready Player Me for Unreal Engine to run this repo. The link for installing is here:
+https://docs.readyplayer.me/ready-player-me/integration-guides/unreal-engine/quickstart/setup-blueprint-projects 
+
 Integrating the Ready Player Me SDK into the Unreal project and implementing Animation Retargeting and Animation Blueprint.
 
 In the course, you will learn the following:
@@ -17,13 +20,12 @@ https://unlocked.academy
 
 # ![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil") Curso Tutorial "Unreal Engine 5: Personagens e Avatares com Ready Player Me"
 
-Este repositório é o código fonte da série de vídeos que fazem parte da 
-SÉRIE PERSONAGENS NA UNREAL ENGINE 5, onde você aprenderá a 
-integrar personagens/avatares dentro da UNREAL ENGINE 5, 
-utilizando a plataforma READY PLAYER ME AVATAR.
+Este repositório é o código fonte da série de vídeos que fazem parte da SÉRIE PERSONAGENS NA UNREAL ENGINE 5, onde você aprenderá a integrar personagens/avatares dentro da UNREAL ENGINE 5, utilizando a plataforma READY PLAYER ME AVATAR.
 
-Integrando o SDK Ready Player Me no projeto Unreal e implementando 
-o Animation Retargeting e o Animation Blueprint.
+** Você precisa do plug-in Ready Player Me para Unreal Engine para executar este repositório. O link para instalação está aqui:
+https://docs.readyplayer.me/ready-player-me/integration-guides/unreal-engine/quickstart/setup-blueprint-projects 
+
+Integrando o SDK Ready Player Me no projeto Unreal e implementando o Animation Retargeting e o Animation Blueprint.
 
 No curso você aprenderá:
 
