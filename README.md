@@ -8,7 +8,7 @@ Give a ⭐️ if this project helped you!
 
 This repository is the source code of the series of videos that are part of the SERIES CHARACTERS IN UNREAL ENGINE 5, where you will learn to integrate characters/avatars within UNREAL ENGINE 5 using the READY PLAYER ME AVATAR platform.
 
-**You need the plugin [Ready Player Me for Unreal Engine](https://docs.readyplayer.me/ready-player-me/integration-guides/unreal-engine/quickstart/setup-blueprint-projects) to run this repo.**
+**You need the plugin [Ready Player Me for Unreal Engine](https://github.com/rdeioris/glTFRuntime/releases/tag/20230907) to run this repo.**
 
 Integrating the Ready Player Me SDK into the Unreal project and implementing Animation Retargeting and Animation Blueprint.
 
@@ -30,7 +30,7 @@ In the course, you will learn the following:
 
 Este repositório é o código fonte da série de vídeos que fazem parte da SÉRIE PERSONAGENS NA UNREAL ENGINE 5, onde você aprenderá a integrar personagens/avatares dentro da UNREAL ENGINE 5, utilizando a plataforma READY PLAYER ME AVATAR.
 
-**Você precisa do plug-in [Ready Player Me para Unreal Engine](https://docs.readyplayer.me/ready-player-me/integration-guides/unreal-engine/quickstart/setup-blueprint-projects) para executar este repositório.**
+**Você precisa do plug-in [Ready Player Me para Unreal Engine](https://github.com/rdeioris/glTFRuntime/releases/tag/20230907) para executar este repositório.**
 
 Integrando o SDK Ready Player Me no projeto Unreal e implementando o Animation Retargeting e o Animation Blueprint.
 
